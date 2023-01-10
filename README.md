@@ -1,2 +1,1 @@
-# Captains Log
- 
+# Captain's Log
